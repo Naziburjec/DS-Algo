@@ -5,7 +5,7 @@ public class TwoMissingNum {
       array[arr[i]]=true;
     for(int i=1;i<=n;i++)
       if(!array[i])
-        System.out.print(i+", "+);
+        System.out.print(i+", ");
         
  }
 
