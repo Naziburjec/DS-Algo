@@ -7,7 +7,7 @@ package org.rose.ds.recursion;
 
 public class NthFibonacciNum {
 	public static void main(String[] args) {
-		int n= 1;
+		int n= 4;
 		System.out.println(fibo(n));
 		
 	}

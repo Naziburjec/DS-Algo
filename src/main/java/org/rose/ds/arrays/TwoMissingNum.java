@@ -1,3 +1,7 @@
+package org.rose.ds.arrays;
+
+
+
 public class TwoMissingNum {
   public static void findTwoMissingNums(int arr[], int n){
     boolean[] array = new boolean[n+1];
